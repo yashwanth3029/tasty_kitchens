@@ -33,7 +33,7 @@ class CartScreen extends StatelessWidget {
                     onPressed: () {
                       Navigator.pop(
                         context,
-                      ); // Go back to the previous screen (Home)
+                      ); // 
                     },
                     child: Text('Order Now'),
                   ),
@@ -110,7 +110,7 @@ class CartScreen extends StatelessWidget {
                 SizedBox(height: 16),
                 ElevatedButton(
                   onPressed: () {
-                    // TODO: Implement "Place Order" functionality
+                    
                   },
                   child: Text('Place Order'),
                 ),
